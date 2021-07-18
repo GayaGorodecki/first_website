@@ -82,6 +82,33 @@ row {
     margin-top: 5px;
 }
 
+.footerImg {
+    max-width: 100%;
+    height: auto;
+    padding: 15px;
+    margin-left: 40px;
+}
+
+.fab {
+    margin: 10px;
+}
+
+.fa-facebook-square {
+    color: #3b5998;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-linkedin-in {
+    color: #0077B5;
+}
+
+.socialWrapper {
+    margin: auto;
+}
+
 /*
     display: block;
     box-sizing: border-box;
